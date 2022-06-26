@@ -1,0 +1,13 @@
+.lecturer {
+  padding: 10px;
+  background-color: rgb(244, 255, 251);
+  border-radius: 5px;
+  width: 200px;
+  height: 200px;
+  margin-top: 6px;
+  box-shadow: 0 2px 4px 8px rgba(244, 255, 251, 0.5);
+  border-radius: 10px;
+}
+.lecturer > h1 {
+  text-align: center;
+}
